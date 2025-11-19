@@ -2,9 +2,13 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo0607y&show_icons=true&theme=radical)](https://github.com/leo0607y)
 
+---
+
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leo0607yE&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leo0607y&theme=highcontrast)](https://git.io/streak-stats)
+
+---
 
 ### 🌐 Top Languages
 
