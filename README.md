@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF8C00,FFA500,FFD700&height=150&section=header&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello!+%F0%9F%91%8B; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFA500&center=true&vCenter=true&width=600&lines=Hello!+I'm+leo0607y+%F0%9F%91%8B;Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ##  **GitHub Analytics**
