@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFA500&center=true&vCenter=true&width=600&lines=Hello!+I'm+leo0607y+%F0%9F%91%8B;Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFA500&center=true&vCenter=true&width=600&lines=Hello!!%F0%9F%A6%81" alt="Typing SVG" />
 </div>
 
 ##  **GitHub Analytics**
